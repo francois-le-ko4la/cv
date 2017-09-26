@@ -1,20 +1,24 @@
 ![alt Avatar](https://avatars0.githubusercontent.com/u/24376156?v=4&s=100)
+<br />
+>François MARTI <br />
+>francois@le.ko4la.fr
+
 # Solution Architect
 ## COMPÉTENCES TECHNIQUES
 
-|      |        |
-| -------------      | ------------- |
-| OS                 |   DOS, Windows 3.x à 2012, OS/2, AIX 4.3.3 à 5L, Sun Solaris 8 à 10, Linux (Ubuntu/Debian/RedHat/Gentoo), OpenVMS |
-| Serveurs           | DELL PowerEdge, CISCO, IBM, HP  |
-| Virtualisation     |   VMWare (3.5 / 6.0)  |
-| Convergence        | VCE vBlock, FlexPod |
-| Hyperconvergence   | Nutanix, VMWare VSAN, VCE VXRAIL (Quanta/DELL)|
-| Orchestration/CMP  | REDHAT CloudForms,CISCO UCS Director, VMWare vREalize |
-| Langages           | Assembler, Fortran, C/C++, Shell, Perl, Python, HTML/XML, JSON |
-| SAN                | DELL/EMC FC/CX/CX2/CX3/CX4/VNX/VNX2/Unity, Symmetrix/DMX, Celerra/VNX File, DataDomain, DELL Equallogic, MD, DX6000, DL2200, Force 10, PowerConnect, IBM V7000, Brocade (Silkworm/Director/HBA), McData, Cisco MDS/Nexus |
-| Virtualisation SAN | DELL/EMC VPLEX, Datacore SanSymphony-V, FalconStore
-| Sauvegarde         | EMC AVAMAR, RUBRIK|
-| CDP                | DELL/EMC Recoverpoint |
+| | |
+|-|-|
+| __OS__                 |   DOS, Windows 3.x à 2012, OS/2, AIX 4.3.3 à 5L, Sun Solaris 8 à 10, Linux (Ubuntu/Debian/RedHat/Gentoo), OpenVMS |
+| __Serveurs__           | DELL PowerEdge, CISCO, IBM, HP  |
+| __Virtualisation__     |   VMWare (3.5 / 6.0)  |
+| __Convergence__        | VCE vBlock, FlexPod |
+| __Hyperconvergence__   | Nutanix, VMWare VSAN, VCE VXRAIL (Quanta/DELL)|
+| __Orchestration/CMP__  | REDHAT CloudForms,CISCO UCS Director, VMWare vREalize |
+| __Langages__           | Assembler, Fortran, C/C++, Shell, Perl, Python, HTML/XML, JSON |
+| __SAN__                | DELL/EMC FC/CX/CX2/CX3/CX4/VNX/VNX2/Unity, Symmetrix/DMX, Celerra/VNX File, DataDomain, DELL Equallogic, MD, DX6000, DL2200, Force 10, PowerConnect, IBM V7000, Brocade (Silkworm/Director/HBA), McData, Cisco MDS/Nexus |
+| __Virtualisation SAN__ | DELL/EMC VPLEX, Datacore SanSymphony-V, FalconStore
+| __Sauvegarde__         | EMC AVAMAR, RUBRIK|
+| __CDP__                | DELL/EMC Recoverpoint |
 
 ### Certification 2016
 > VEEAM VMTSP, DELL EMEA Server, EMC SE 2016 Portfolio, VMWARE VTSP
