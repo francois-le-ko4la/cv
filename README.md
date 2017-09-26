@@ -28,14 +28,17 @@
 > VCE
 
 ## FORMATION
+![Alt ESME](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/ESME.png)
 - Septembre 2003 – ESME Sudria – Obtention du diplôme d’ingénieur SI
 - 1998-2003 – ESME Sudria – Cycle préparatoire et ingénieur
 
 ## EXPÉRIENCE PROFESSIONNELLE
+![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
 - Depuis Février 2016 – SFR BUSINESS SOLUTION – Solution Architect généraliste
 > Participation au développement des offres DELL : certifications et animation <br />
 > Avant-Vente : offres Datacenter (Housing, Hosting, Plateforme IAAS, DCN, PRA As A Service) et "On-Premise" (DELL/EMC, NetApp, VEEAM, VMWARE, HP, Nutanix)
 
+![Alt SCC](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SCC.png)
 - De Mai 2011 à Février 2016 – SCC – Solution Architect généraliste
 > Réunion de qualification,
 > Sélection avec le commerce des marques à positionner,
@@ -47,11 +50,13 @@
 > Transmission du dossier aux intervenants et accompagnement du chef de projet pendant la mise en œuvre,
 > Participation aux réunions de lancement des projets
 
+![Alt DELL](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/DELL.png)
 - De Février 2009 à Avril 2011 – DELL – Technical Team Leader et Field Ingineer
 > Déploiement des solutions DELL,
 > Support 1er niveau des EDT (France, Italie, Espagne),
 > Transfert de compétences sur la solution EMC Celerra (France, Italie, Espagne, Allemagne),
 
+![Alt Eudasys](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/Eudasys.png)
 - De Décembre 2003 à Février 2009 – Eudasys – Ingénieur réalisation SAN
 > Analyse du besoins du client,
 > Installation et configuration,
@@ -64,6 +69,7 @@
 > Formation et suivi,
 > Support 1er niveau
 
+![Alt IFS](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/InstitutFrancais.png)
 - De Mai à Septembre 2003 – Institut Français de Stockholm – Stage de fin d’études.
 > Modification du réseau,
 > Mise en place d’une politique de sécurité,
