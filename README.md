@@ -86,4 +86,4 @@
 - Anglais : lu/écrit/parlé technique
 
 ## PASSIONS
-- Moto, Guitare, Judo, lecture
+- Moto, Guitare, Judo, Lecture
