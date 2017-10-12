@@ -33,7 +33,7 @@
 
 ## FORMATION
 ![Alt ESME](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/ESME.png)
-- 1998/2003 – __ESME Sudria__ (Member of the consortium of the best French Schools in Engineering and Business « Grandes Ecoles ») – Engineer degree in computer information systems
+- 1998/2003 – __ESME Sudria__ (Member of the consortium of the best French Schools in Engineering and Business « Grandes Ecoles ») – Master's degree / Engineer's degree in computer information systems
 - 1998 – French high-school diploma - Baccalauréat S (Scientific)
 
 ## WORK EXPERIENCE
