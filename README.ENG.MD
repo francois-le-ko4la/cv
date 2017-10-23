@@ -39,7 +39,7 @@
 ## WORK EXPERIENCE
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
 - Feb 2016 – __SFR BUSINESS SOLUTION__ – Solution Architect
-> Participate in development and relationships with DELL : use case/business case, professional certifications and presales support - DELL VSAN Ready Node<br />
+> Participate in building partnership (DELL): use case/business case, professional certifications and presales support - DELL VSAN Ready Node<br />
 > Presales : Datacenter (Housing, Hosting, Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix)<br />
 > Self training : REDHAT CloudForms, CEPH <br />
 
