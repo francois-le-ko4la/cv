@@ -1,7 +1,7 @@
 ![alt Avatar](https://avatars0.githubusercontent.com/u/24376156?v=4&s=100)
 <br />
 >François MARTI <br />
->francois@le.ko4la.fr
+>francois (@) le.ko4la.fr
 
 # Solution Architect
 ## COMPÉTENCES TECHNIQUES
