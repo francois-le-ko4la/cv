@@ -1,4 +1,4 @@
-![alt Avatar](https://avatars0.githubusercontent.com/u/24376156?v=4&s=100)
+![alt Avatar](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/avatar.png)
 <br />
 >François MARTI <br />
 >francois (@) le.ko4la.fr
