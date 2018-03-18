@@ -3,7 +3,19 @@
 >François MARTI <br />
 >francois (@) le.ko4la.fr
 
-# Solution Architect
+# PRE-SALE
+
+##
+
+- Work with the sales team to understand technical & business requirements, develop selling
+strategy, design, propose, and close new deals/opportunities with customers
+- Present the company products to clients – POCs / Showcased drivers and value that support
+the business case for the total cost of ownership to the customer
+- Develop and establish strong relationships with strategic clients, prospects and industry
+partners
+- Keep up-to-date on relevant competitive solutions, products and services
+
+
 ## TECHNICAL SKILLS
 
 | | |
@@ -12,13 +24,19 @@
 | __Servers__           | DELL PowerEdge, CISCO, IBM, HP  |
 | __Virtualization__     |   VMWare (3.5 / 6.0)  |
 | __Converged Infrastructure__        | VCE vBlock, FlexPod |
-| __HCI__   | Nutanix, VMWare VSAN, VCE VXRAIL (Quanta/DELL)|
+| __HCI__   |  Nutanix, VCE VXRAIL (Quanta/DELL), VMWARE Ready Node (VSAN) |
 | __Orchestration/CMP__  | REDHAT CloudForms,CISCO UCS Director, VMWare vREalize |
+| __Backup__ | IBM TSM, Symantec Netbackup, DELL|EMC AVAMAR / DataDomain, VEEAM, RUBRIK
 | __Development__           | Assembler, Fortran, C/C++, Shell, Perl, Python, HTML/XML, JSON |
-| __SAN__                | DELL/EMC FC/CX/CX2/CX3/CX4/VNX/VNX2/Unity, Symmetrix/DMX, Celerra/VNX File, DataDomain, DELL Equallogic, MD, DX6000, DL2200, Force 10, PowerConnect, IBM V7000, Brocade (Silkworm/Director/HBA), McData, Cisco MDS/Nexus |
+| __Object Storage__ | RedHat Ceph/Scality |
+| __Cloud__ | AWS, Azure, SFR |
+| __SAN/LAN__                | DELL/EMC CARiiON/VNX/Unity, Symmetrix/DMX, DELL Equallogic, MD, DX6000, DL2200, Force 10, PowerConnect, IBM V7000, Brocade (Silkworm/Director/HBA), McData, Cisco MDS/Nexus |
+| __NAS__ | NDMP, CIFS/NFS, EMC VNX File/NetApp FAS |
 | __SAN Virtualization__ | DELL/EMC VPLEX, Datacore SanSymphony-V, FalconStore
-| __Backup__         | EMC AVAMAR, RUBRIK|
+| __Sofware Define Storage__         | VSAN, RedHat CEPH/Gluster |
 | __CDP__                | DELL/EMC Recoverpoint |
+| __Orchestrator/CMP__ | ManageIQ / REDHAT CloudForms, Ansible, CISCO UCS Director |
+| __Database__ | Oracle, MySQL |
 
 ### Professional certifications 2016
 > VEEAM VMTSP, DELL EMEA Server, EMC SE 2016 Portfolio, VMWARE VTSP
@@ -39,41 +57,39 @@
 ## WORK EXPERIENCE
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
 - Feb 2016 – __SFR BUSINESS SOLUTION__ – Solution Architect
-> Participate in building partnership (DELL): use case/business case, professional certifications and presales support - DELL VSAN Ready Node<br />
-> Presales : Datacenter (Housing, Hosting, Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix)<br />
-> Self training : REDHAT CloudForms, CEPH <br />
+
+> Participated in developing and building strong relationships with DELL & RUBRIK : use case/business case, professional certifications and sales support
+> Presented/Designed the company products to clients : Datacenter (Housing, Hosting,
+Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix)
+> POC : VXRAIL, Rubrik
 
 ![Alt SCC](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SCC.png)
 - May 2011 / Feb 2016 – __SCC__ – Solution Architect
-> Met with channels/customers<br />
-> Understand technical environment, business drivers, and the next solution<br />
-> Designed new solutions & requirements<br />
-> Made P&L <br />
-> Made Presentations<br />
-> Launch projects with Project Manager<br />
-> POC (Flexpod, EMC VBLOCK, serveur, stockage)<br />
-> Internal Training (IBM PureFlex, EMC)<br />
-> Participated in Solution Center (EMC, NetApp, IBM, HP, DELL)
 
+> Met industry partners and customers <br />
+> Assessed technical environment, business drivers, and designed new solution <br />
+> Made P&L <br />
+> Presented the company products to clients <br />
+> Launched projects with project manager <br />
+> POC (Flexpod, EMC VBLOCK, server, storage) <br />
+> Trained colleagues on IBM PureFlex and EMC storage <br />
+> Collaborated in SCC’s Solution Center (EMC, NetApp, IBM, HP, DELL) <br />
 
 ![Alt DELL](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/DELL.png)
 - Feb 2009 / Apr 2011 – __DELL__ – Technical Team Leader et Field Ingineer
-> Did Deployement and tuning : server, storage, backup <br />
-> Was Technical team leader & Support level 1 on DELL|EMC solutions - EMEA <br />
-> Did knowledge transfer on EMC Celerra (EMEA)<br />
-> Tuned solutions regarding customer environments (Windows/Linux)<br />
+> Installed and configured DELL|EMC’s Solutions : servers, switchs, storage, backup <br />
+> Defined deployment best practices in EMEA with others technical team leaders <br />
+> Supported deployment team <br />
+> Trained customers & colleagues <br />
 
 ![Alt Eudasys](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/Eudasys.png)
 - Dec 2003 / Feb 2009 – __Eudasys__ – Field Engineer (SAN)
-> Customer need analysis<br />
-> SAN deployment and tuning on Linux/Unix/Windows environments<br />
-> Documentations<br />
-> Customer training<br />
-> Technical assessment & consulting<br />
-> Data migration<br />
-> Disaster Recovery<br />
-> Internal training<br />
-> Internal SAN Support level 1<br />
+> Wrote technical documents (from assessment to acceptance test) <br />
+> Installed and configured EMC storage hardware, SAN switchs, servers, operating <br />
+systems, backup solution, disaster recovery solution <br />
+> Trained customers & colleagues on SAN/Backup Solutions <br />
+> Migrated datas & services from old to new solutions <br />
+> Supported deployment team <br />
 
 ![Alt IFS](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/InstitutFrancais.png)
 - May / Sept. 2003 – __Franska Institutet / French Institute in Stockholm__ – Internship
@@ -83,7 +99,6 @@
 > Administration & Support
 
 ## LANGUAGE
-
 - French : native
 - English : technical (Read/Write/Speak)
 
