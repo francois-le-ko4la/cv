@@ -5,8 +5,7 @@
 
 # PRE-SALE
 
-##
-
+## PROFESSIONAL STRENGTHS
 - Work with the sales team to understand technical & business requirements, develop selling
 strategy, design, propose, and close new deals/opportunities with customers
 - Present the company products to clients – POCs / Showcased drivers and value that support
