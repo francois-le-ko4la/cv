@@ -57,10 +57,10 @@ partners
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
 - Feb 2016 – __SFR BUSINESS SOLUTION__ – Solution Architect
 
-> Participated in developing and building strong relationships with DELL & RUBRIK : use case/business case, professional certifications and sales support
+> Participated in developing and building strong relationships with DELL & RUBRIK : use case/business case, professional certifications and sales support <br />
 > Presented/Designed the company products to clients : Datacenter (Housing, Hosting,
-Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix)
-> POC : VXRAIL, Rubrik
+Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix) <br />
+> POC : VXRAIL, Rubrik <br />
 
 ![Alt SCC](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SCC.png)
 - May 2011 / Feb 2016 – __SCC__ – Solution Architect
