@@ -54,6 +54,9 @@ partners
 - 1998 – French high-school diploma - Baccalauréat S (Scientific)
 
 ## WORK EXPERIENCE
+![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/rubrik-150.png)
+- Jul 2019 - __Rubrik__ - Sales Engineer
+
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
 - Feb 2016 – __SFR BUSINESS SOLUTION__ – Solution Architect
 
