@@ -3,16 +3,10 @@
 >François MARTI <br />
 >francois (@) le.ko4la.fr
 
-# PRE-SALE
-
-## PROFESSIONAL STRENGTHS
-- Work with the sales team to understand technical & business requirements, develop selling
-strategy, design, propose, and close new deals/opportunities with customers
-- Present the company products to clients – POCs / Showcased drivers and value that support
-the business case for the total cost of ownership to the customer
-- Develop and establish strong relationships with strategic clients, prospects and industry
-partners
-- Keep up-to-date on relevant competitive solutions, products and services
+# Channel SE
+> Work with CDM to develop the partner strategy<br />
+> Present the company products to partners – help during POCs / Showcased drivers and value that support the business case<br />
+> Develop and establish relationships with strategic partners
 
 
 ## TECHNICAL SKILLS
@@ -55,7 +49,20 @@ partners
 
 ## WORK EXPERIENCE
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/rubrik-150.png)
-- Jul 2019 - __Rubrik__ - Sales Engineer
+- 2019-2021 – RUBRIK – Channel SE
+> Presented new offers and update to the partners<br />
+> Build a contact list to follow up the partner skills<br />
+> Promoted, organized and delivered official training<br />
+> Followed up the partners and provided answers according to their needs<br />
+> Promoted and participated in marketing events (CRIP)<br />
+> Did newsletter to emphasize the important news<br />
+> Participated in Channel SE team to suggest ideas and share our experiences
+
+- 2018-2019 Account SE
+> Worked with the sales team to understand technical & business requirements, develop selling strategy and design
+> Presented the company products to clients – POCs / Showcased drivers and value that support the business case
+> Developed and establish strong relationships with strategic clients, prospects and alliances<br />
+> Keep up-to-date on relevant competitive solutions, products and services
 
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
 - Feb 2016 – __SFR BUSINESS SOLUTION__ – Solution Architect
