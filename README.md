@@ -1,7 +1,6 @@
 ![alt Avatar](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/avatar.png)
 <br />
 >François MARTI <br />
->francois (@) le.ko4la.fr
 
 # Channel SE
 > Work with CDM to develop the partner strategy<br />
