@@ -18,17 +18,17 @@
 | __Converged Infrastructure__        | VCE vBlock, FlexPod |
 | __HCI__   |  Nutanix, VCE VXRAIL (Quanta/DELL), VMWARE Ready Node (VSAN) |
 | __Orchestration/CMP__  | REDHAT CloudForms,CISCO UCS Director, VMWare vREalize |
-| __Backup__ | IBM TSM, Symantec Netbackup, DELL|EMC AVAMAR / DataDomain, VEEAM, RUBRIK
+| __Backup__ | Rubrik, IBM TSM, Symantec Netbackup, DELL|EMC AVAMAR / DataDomain, VEEAM
 | __Development__           | Assembler, Fortran, C/C++, Shell, Perl, Python, HTML/XML, JSON |
-| __Object Storage__ | RedHat Ceph/Scality |
+| __Object Storage__ | Cloudian, NetApp, RedHat Ceph/Scality |
 | __Cloud__ | AWS, Azure, SFR |
 | __SAN/LAN__                | DELL/EMC CARiiON/VNX/Unity, Symmetrix/DMX, DELL Equallogic, MD, DX6000, DL2200, Force 10, PowerConnect, IBM V7000, Brocade (Silkworm/Director/HBA), McData, Cisco MDS/Nexus |
 | __NAS__ | NDMP, CIFS/NFS, EMC VNX File/NetApp FAS |
 | __SAN Virtualization__ | DELL/EMC VPLEX, Datacore SanSymphony-V, FalconStore
 | __Sofware Define Storage__         | VSAN, RedHat CEPH/Gluster |
-| __CDP__                | DELL/EMC Recoverpoint |
-| __Orchestrator/CMP__ | ManageIQ / REDHAT CloudForms, Ansible, CISCO UCS Director |
-| __Database__ | Oracle, MySQL |
+| __CDP__                | Rubrik CDP, DELL/EMC Recoverpoint |
+| __Orchestrator/CMP__ | Ansible, ManageIQ / REDHAT CloudForms, CISCO UCS Director |
+| __Database__ | Oracle, SQL Server, PostgreSQL, MySQL |
 
 ### Professional certifications 2016
 > VEEAM VMTSP, DELL EMEA Server, EMC SE 2016 Portfolio, VMWARE VTSP
