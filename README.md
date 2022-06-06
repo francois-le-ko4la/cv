@@ -42,64 +42,56 @@
 > VCE
 
 ## 💻 WORK EXPERIENCE
-![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/rubrik-150.png)
-- 2019-2021 – RUBRIK – Channel SE
-> Presenting new offers and update to the partners<br />
-> Building a contact list to follow up the partner skills<br />
-> Promoting, organizing and delivering official training<br />
-> Following up the partners and providing answers according to their needs<br />
-> Promoting and participating in marketing events (CRIP, SANTEXPO)<br />
-> Doing newsletter to emphasize the important news<br />
-> Participating in Channel SE team to suggest ideas and share our experiences
 
-- 2018-2019 Account SE
-> Worked with the sales team to understand technical & business requirements, develop selling strategy and design
-> Presented the company products to clients – POCs / Showcased drivers and value that support the business case
-> Developed and establish strong relationships with strategic clients, prospects and alliances<br />
-> Keep up-to-date on relevant competitive solutions, products and services
+**Channel SE** @ [RUBRIK](https://www.rubrik.com) _(2019 - Present)_
+  - Presenting new offers and update to the partner
+  - Building a contact list to follow up the partner skills
+  - Promoting, organizing and delivering official training
+  - Following up the partners and providing answers according to their needs
+  - Promoting and participating in marketing events (CRIP, SANTEXPO)
+  - Doing newsletter to emphasize the important news
+  - Participating in Channel SE team to suggest ideas and share our experiences
 
-![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SFRBusiness.png)
-- Feb 2016 – __SFR BUSINESS SOLUTION__ – Solution Architect
+**Field SE** @ [RUBRIK](https://www.rubrik.com) _(2018 - 2019)_
+  - Worked with the sales team to understand technical & business requirements, develop selling strategy and design
+  - Presented the company products to clients – POCs / Showcased drivers and value that support the business case
+  - Developed and establish strong relationships with strategic clients, prospects and alliances
+  - Keep up-to-date on relevant competitive solutions, products and services
 
-> Participated in developing and building strong relationships with DELL & RUBRIK : use case/business case, professional certifications and sales support <br />
-> Presented/Designed the company products to clients : Datacenter (Housing, Hosting,
-Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix) <br />
-> POC : VXRAIL, Rubrik <br />
+**Solution Architect** @ [SFR BUSINESS SOLUTION](https://www.sfrbusiness.fr/) _(Feb 2016 - 2018)_
+  - Participated in developing and building strong relationships with DELL & RUBRIK : use case/business case, professional certifications and sales support
+  - Presented/Designed the company products to clients : Datacenter (Housing, Hosting,
+Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEAM, RUBRIK, VMWARE, HP, Nutanix)
+  - POC : VXRAIL, Rubrik
 
-![Alt SCC](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/SCC.png)
-- May 2011 / Feb 2016 – __SCC__ – Solution Architect
+**Solution Architect** @ [SCC](https://france.scc.com/) _(May 2011 - Feb 2016)_
+  - Met industry partners and customers
+  - Assessed technical environment, business drivers, and designed new solution
+  - Made P&L
+  - Presented the company products to clients
+  - Launched projects with project manager
+  - POC (Flexpod, EMC VBLOCK, server, storage)
+  - Trained colleagues on IBM PureFlex and EMC storage
+  - Collaborated in SCC’s Solution Center (EMC, NetApp, IBM, HP, DELL)
 
-> Met industry partners and customers <br />
-> Assessed technical environment, business drivers, and designed new solution <br />
-> Made P&L <br />
-> Presented the company products to clients <br />
-> Launched projects with project manager <br />
-> POC (Flexpod, EMC VBLOCK, server, storage) <br />
-> Trained colleagues on IBM PureFlex and EMC storage <br />
-> Collaborated in SCC’s Solution Center (EMC, NetApp, IBM, HP, DELL) <br />
+**Technical Team Leader & Field Ingineer** @ [DELL](https://www.dell.com/fr-fr) _(Feb 2009 - Apr 2011)_
+  - Installed and configured DELL|EMC’s Solutions : servers, switchs, storage, backup
+  - Defined deployment best practices in EMEA with others technical team leaders
+  - Supported deployment team
+  - Trained customers & colleagues
 
-![Alt DELL](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/DELL.png)
-- Feb 2009 / Apr 2011 – __DELL__ – Technical Team Leader et Field Ingineer
-> Installed and configured DELL|EMC’s Solutions : servers, switchs, storage, backup <br />
-> Defined deployment best practices in EMEA with others technical team leaders <br />
-> Supported deployment team <br />
-> Trained customers & colleagues <br />
+**Field Engineer (SAN)** @ **EUDASYS** _(Dec 2003 - Feb 2009)_
+  - Wrote technical documents (from assessment to acceptance test)
+  - Installed and configured EMC storage hardware, SAN switchs, servers, operating systems, backup solution, disaster recovery solution
+  - Trained customers & colleagues on SAN/Backup Solutions
+  - Migrated datas & services from old to new solutions
+  - Supported deployment team
 
-![Alt Eudasys](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/Eudasys.png)
-- Dec 2003 / Feb 2009 – __Eudasys__ – Field Engineer (SAN)
-> Wrote technical documents (from assessment to acceptance test) <br />
-> Installed and configured EMC storage hardware, SAN switchs, servers, operating <br />
-systems, backup solution, disaster recovery solution <br />
-> Trained customers & colleagues on SAN/Backup Solutions <br />
-> Migrated datas & services from old to new solutions <br />
-> Supported deployment team <br />
-
-![Alt IFS](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/InstitutFrancais.png)
-- May / Sept. 2003 – __Franska Institutet / French Institute in Stockholm__ – Internship
-> Server / Network design<br />
-> Security policy<br />
-> Internal training<br />
-> Administration & Support
+**System Admin (Internship)** @ **Franska Institutet / French Institute in Stockholm** _(May 2003 - Sept 2003)_
+  - Server / Network design
+  - Security policy
+  - Internal training
+  - Administration & Support
 
 ## 🎓 EDUCATION
 ![Alt ESME](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/ESME.png)
