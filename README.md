@@ -52,8 +52,8 @@
 > Presenting new offers and update to the partners<br />
 > Building a contact list to follow up the partner skills<br />
 > Promoting, organizing and delivering official training<br />
-> Following up the partners and provided answers according to their needs<br />
-> Promoting and participated in marketing events (CRIP)<br />
+> Following up the partners and providing answers according to their needs<br />
+> Promoting and participating in marketing events (CRIP, SANTEXPO)<br />
 > Doing newsletter to emphasize the important news<br />
 > Participating in Channel SE team to suggest ideas and share our experiences
 
