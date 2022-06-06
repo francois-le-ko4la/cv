@@ -8,7 +8,7 @@
 > Develop and establish relationships with strategic partners
 
 
-## TECHNICAL SKILLS
+## 📖 TECHNICAL SKILLS
 
 | | |
 |-|-|
@@ -41,21 +41,21 @@
 > EMC SE 2014,
 > VCE
 
-## FORMATION
+## 🎓 EDUCATION
 ![Alt ESME](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/ESME.png)
 - 1998/2003 – __ESME Sudria__ (Member of the consortium of the best French Schools in Engineering and Business « Grandes Ecoles ») – Master's degree / Engineer's degree in computer information systems
 - 1998 – French high-school diploma - Baccalauréat S (Scientific)
 
-## WORK EXPERIENCE
+## 💻 WORK EXPERIENCE
 ![Alt SFR](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/rubrik-150.png)
 - 2019-2021 – RUBRIK – Channel SE
-> Presented new offers and update to the partners<br />
-> Build a contact list to follow up the partner skills<br />
-> Promoted, organized and delivered official training<br />
-> Followed up the partners and provided answers according to their needs<br />
-> Promoted and participated in marketing events (CRIP)<br />
-> Did newsletter to emphasize the important news<br />
-> Participated in Channel SE team to suggest ideas and share our experiences
+> Presenting new offers and update to the partners<br />
+> Building a contact list to follow up the partner skills<br />
+> Promoting, organizing and delivering official training<br />
+> Following up the partners and provided answers according to their needs<br />
+> Promoting and participated in marketing events (CRIP)<br />
+> Doing newsletter to emphasize the important news<br />
+> Participating in Channel SE team to suggest ideas and share our experiences
 
 - 2018-2019 Account SE
 > Worked with the sales team to understand technical & business requirements, develop selling strategy and design
@@ -106,9 +106,9 @@ systems, backup solution, disaster recovery solution <br />
 > Internal training<br />
 > Administration & Support
 
-## LANGUAGE
+## 💬 LANGUAGE
 - French : native
 - English : technical (Read/Write/Speak)
 
-## PERSONAL INTERESTS
-- Moto, Guitare, Judo, Reading
+## 🎮 PERSONAL INTERESTS
+- Raspberry, Motorbike, Guitare, Judo, Reading
