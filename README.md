@@ -18,7 +18,7 @@
 | __Converged Infrastructure__        | VCE vBlock, FlexPod |
 | __HCI__   |  Nutanix, VCE VXRAIL (Quanta/DELL), VMWARE Ready Node (VSAN) |
 | __Orchestration/CMP__  | REDHAT CloudForms,CISCO UCS Director, VMWare vREalize |
-| __Backup__ | Rubrik, IBM TSM, Symantec Netbackup, DELL|EMC AVAMAR / DataDomain, VEEAM
+| __Backup__ | Rubrik, IBM TSM, Symantec Netbackup, DELL/EMC AVAMAR / DataDomain, VEEAM
 | __Development__           | Assembler, Fortran, C/C++, Shell, Perl, Python, HTML/XML, JSON |
 | __Object Storage__ | Cloudian, NetApp, RedHat Ceph/Scality |
 | __Cloud__ | AWS, Azure, SFR |
@@ -94,13 +94,12 @@ Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEA
   - Administration & Support
 
 ## 🎓 EDUCATION
-![Alt ESME](https://raw.githubusercontent.com/francois-le-ko4la/cv/master/logos/ESME.png)
-- 1998/2003 – __ESME Sudria__ (Member of the consortium of the best French Schools in Engineering and Business « Grandes Ecoles ») – Master's degree / Engineer's degree in computer information systems
-- 1998 – French high-school diploma - Baccalauréat S (Scientific)
+  - 1998/2003 – __ESME Sudria__ (Member of the consortium of the best French Schools in Engineering and Business « Grandes Ecoles ») – Master's degree / Engineer's degree in computer information systems
+  - 1998 – French high-school diploma - Baccalauréat S (Scientific)
 
 ## 💬 LANGUAGE
-- French : native
-- English : technical (Read/Write/Speak)
+  - French : native
+  - English : technical (Read/Write/Speak)
 
 ## 🎮 PERSONAL INTERESTS
-- Raspberry, Motorbike, Guitare, Judo, Reading
+  - Raspberry, Motorbike, Guitare, Judo, Reading
