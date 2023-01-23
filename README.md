@@ -75,7 +75,7 @@ Plateforme IAAS, DCN, PRA As A Service) and "On-Premise" (DELL|EMC, NetApp, VEEA
   - Collaborated in SCC’s Solution Center (EMC, NetApp, IBM, HP, DELL)
 
 **Technical Team Leader & Field Ingineer** @ [DELL](https://www.dell.com/fr-fr) _(Feb 2009 - Apr 2011)_
-  - Installed and configured DELL|EMC’s Solutions : servers, switchs, storage, backup
+  - Installed and configured DELL/EMC’s Solutions : servers, switchs, storage, backup
   - Defined deployment best practices in EMEA with others technical team leaders
   - Supported deployment team
   - Trained customers & colleagues
