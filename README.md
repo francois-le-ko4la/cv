@@ -81,6 +81,7 @@ technical half of a pair with the Channel Development Manager.
 
 - Work with the CDM, Field SEs and AEs to align on accounts and channel
   technical plans, relay opportunities and partner feedback.
+- Share field feedback, ideas and experience within the Channel SE team.
 
 ### Field SE, [Rubrik](https://www.rubrik.com) (Jul 2018 - 2019)
 
