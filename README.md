@@ -93,7 +93,16 @@ technical half of a pair with the Channel Development Manager.
   alliance partners.
 - Tracked competing solutions, products and services.
 
-### Solution Architect, [SFR Business](https://www.sfrbusiness.fr/) (Feb 2016 - 2018)
+<!-- markdownlint-disable-next-line MD013 -->
+### Infrastructure Advisory - Presale / Solution Architect, [Econocom](https://www.econocom.com/fr) (Jan 2018 - Jun 2018)
+
+- Advised the bid manager and sales on cloud infrastructure.
+- Took part in the Econocom cloud methodology and cloud innovation.
+- Aligned customer expectations with the Econocom cloud solution.
+- Took part in partnerships between Econocom entities, and in building strong
+  relationships with Nutanix and Rubrik.
+
+### Solution Architect, [SFR Business](https://www.sfrbusiness.fr/) (Feb 2016 - Dec 2017)
 
 - Participated in developing and building strong relationships with DELL and
   Rubrik: use cases, business cases, certifications and sales support.
