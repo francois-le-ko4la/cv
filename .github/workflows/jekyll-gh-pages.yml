@@ -34,6 +34,13 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Build the PDF from the rendered page
+        # Chrome is preinstalled on GitHub-hosted Ubuntu runners; the page's print stylesheet sets the A4 layout.
+        run: |
+          google-chrome --headless --no-sandbox --disable-gpu --no-pdf-header-footer \
+            --virtual-time-budget=10000 --print-to-pdf=/tmp/cv.pdf "file://$PWD/_site/index.html"
+          test "$(stat -c %s /tmp/cv.pdf)" -gt 20000
+          sudo cp /tmp/cv.pdf "_site/$(sed -nE 's/^pdf_name: *//p' _config.yml)"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5.0.0
 

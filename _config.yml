@@ -1,0 +1,13 @@
+title: François MARTI
+description: Channel Sales Engineer @ Rubrik. Cyber resilience, partner enablement, 20+ years in datacenter infrastructure.
+lang: en
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - .githooks
+  - .markdownlint.json
+# Links shown in the header card
+linkedin: https://www.linkedin.com/in/francois-marti-704a5473
+github_user: francois-le-ko4la
+# PDF built by the Pages workflow from the rendered page
+pdf_name: Francois-MARTI-CV.pdf
